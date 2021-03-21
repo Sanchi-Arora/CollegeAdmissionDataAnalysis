@@ -1,2 +1,2 @@
 # CollegeAdmissionDataAnalysis
-Data Science Project with R
+Data Science Project with R @SimpliLearn
